@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/anuj/Downloads/ImageMosaicing/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include/opencv, -I../inc -isystem /usr/local/include/opencv  -g   -o CMakeFiles/ImageMosaicing.dir/src/main.cpp.o -c /home/anuj/Downloads/ImageMosaicing/src/main.cpp",
+  "file": "/home/anuj/Downloads/ImageMosaicing/src/main.cpp"
+}
+]

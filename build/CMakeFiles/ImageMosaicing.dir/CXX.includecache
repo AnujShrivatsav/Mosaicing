@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anuj/Downloads/ImageMosaicing/inc/cv_factory.hpp
+iostream
+-
+opencv2/opencv.hpp
+-
+string
+-
+numeric
+-
+filesystem
+-
+math.h
+-
+
+/home/anuj/Downloads/ImageMosaicing/src/main.cpp
+iostream
+-
+../inc/cv_factory.hpp
+/home/anuj/Downloads/ImageMosaicing/inc/cv_factory.hpp
+string
+-
+
